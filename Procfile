@@ -1,1 +1,1 @@
-worker: python 10MansBot.py
+worker: node 10MansBot.py
