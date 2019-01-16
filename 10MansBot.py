@@ -311,4 +311,4 @@ async def on_message(message):
 
 #Goes at bottom
 """DO NOT TOUCH"""
-bot.run("NDQwMDUzMjU3NDM2NTI4NjYz.DccHEA.ByQ6mwFXUOrnu66znwSvK-svjf8")
+bot.run("NTM0OTIzNTIyNTI3NzIzNTYy.DyFN4A.tqAF1Ciqv2UDdwRMdvQ7UoGEags")
